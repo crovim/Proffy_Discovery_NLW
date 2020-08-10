@@ -1,7 +1,7 @@
 # Proffy_Discovery_NLW
 Web application developed during the Rockseat marathon (NLW)
 
-O projeto está desenvolvido utilizando as seguintes tecnologias:
+The project is developed using the following technologies:
 
 • HTML
 • CSS
@@ -10,16 +10,16 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 • Nunjucks
 • SQLite
 
--> Clonar o repositório
+-> Clone the repository
 git clone https://github.com/crovim/Proffy_Discovery_NLW
 
--> Entrar no diretório
+-> Enter directory
 cd Proffy_Discovery_NLW
 
--> Baixar as dependências
+-> Download dependencies
 npm i
 
--> Executar o servidor
+-> Run the server
 npm run dev
 
-* Feito isso, abra o seu navegador e acesse http://localhost:5500/ 
+* That done, open your browser and access: http://localhost:5500/ 
