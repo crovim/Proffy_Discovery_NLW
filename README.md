@@ -22,4 +22,4 @@ npm i
 -> Executar o servidor
 npm run dev
 
-# Feito isso, abra o seu navegador e acesse http://localhost:5500/
+* Feito isso, abra o seu navegador e acesse http://localhost:5500/ 
